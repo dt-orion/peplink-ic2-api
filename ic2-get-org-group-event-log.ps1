@@ -1,4 +1,4 @@
-# Script: ic2-get-org-grop-event-log.ps1
+# Script: ic2-get-org-group-event-log.ps1
 # Version: 0.1
 # Purpose: Get the event log for a specific organization group
 # https://github.com/dt-orion/peplink-ic2-api

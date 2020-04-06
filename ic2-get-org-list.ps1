@@ -1,6 +1,6 @@
 # Script: ic2-get-org-list.ps1
 # Version: 0.1
-# Purpose: Get the list of organizations visible to a specific client ID / secret
+# Purpose: Get the list of organizations visible to a specific client application
 # https://github.com/dt-orion/peplink-ic2-api
 # Recommended .NET Framework Runtime >=4.5.2 (https://dotnet.microsoft.com/download)
 # Recommended Windows Management Framework/PowerShell 5.1 (https://www.microsoft.com/en-us/download/details.aspx?id=54616)
