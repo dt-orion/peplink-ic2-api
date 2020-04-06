@@ -1,0 +1,9 @@
+# ignore everything
+*
+# except for project files
+!.gitignore
+!ic2-get-org-list.ps1
+!ic2-get-org-group-list.ps1
+!ic2-get-org-group-event-log.ps1
+!LICENSE
+!README.md
