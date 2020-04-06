@@ -51,7 +51,7 @@ Get the list of groups visible to an organization:
   
 # ic2-get-org-group-event-log.ps1
 * [View on GitHub](https://github.com/dt-orion/peplink-ic2-api/blob/master/ic2-get-org-group-event-log.ps1)
-* [Raw download link](https://github.com/dt-orion/peplink-ic2-api/raw/master/ic2-get-org-group-event.ps1)
+* [Raw download link](https://github.com/dt-orion/peplink-ic2-api/raw/master/ic2-get-org-group-event-log.ps1)
 ```
 Get the event log entries for a specific group ID in an organization:
 
